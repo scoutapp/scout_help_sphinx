@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Scout Help Docs's documentation!
+Scout Help Docs
 ===========================================
+
+Welcome to the help site for Scout Application Monitoring.
 
 .. toctree::
    :maxdepth: 2
@@ -18,13 +20,3 @@ Welcome to Scout Help Docs's documentation!
    api
    compliance
    reference
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
